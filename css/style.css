@@ -1,0 +1,17 @@
+body{
+	background-color:#f8f8f8;
+}
+.mime{
+	background: linear-gradient(rgba(60,56,56,0.9),rgba(201,175,175,0.6));
+}
+iframe{
+	width:100%;
+	height:43vh;
+	outline:none;
+	border:none;
+	box-shadow:none;
+}
+.f{
+	font-size:20px;
+	word-wrap:normal;
+}

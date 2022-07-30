@@ -1,0 +1,23 @@
+{
+  "name": "livehtmleditor",
+  "version": "1.0.0",
+  "description": "This is Live Html Editor , in which you can write html , css , js and see results live ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "live",
+    "live",
+    "html",
+    "editor",
+    "html",
+    "editor",
+    "css",
+    "editor",
+    "js",
+    "editor"
+  ],
+  "author": "Riya Tripathi",
+  "license": "MIT"
+}
